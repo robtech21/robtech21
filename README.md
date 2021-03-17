@@ -2,6 +2,7 @@
 
 Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD and motivation that only comes at the least convienent at times. Anyways, I hope you'll enjoy my projects. New versions coming soon.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robtech21)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
