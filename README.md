@@ -18,6 +18,8 @@ A simple GNU/linux tool for fetching sysinfo written in Python
 
 #### Email
 Email me [here](mailto:robert@megley.com) (Please include **'priority'** in the subject)
+
+I will be more likely to reply to emails
 #### Discord
 My discord is **Boba#6797** but I've been less active because of schoolwork
 <!--
