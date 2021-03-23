@@ -14,6 +14,10 @@ A multitool written in Python (unreleased)
 #### [xetch (Actively Contributing)](https://github.com/B00bleaTea/xetch)
 A simple GNU/linux tool for fetching sysinfo written in Python
 
+### Stuff I'm interested in:
+
+[MCPI Revival](https://github.com/MCPI-Revival)
+
 ### Contacts
 
 #### Email
