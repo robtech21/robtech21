@@ -9,7 +9,7 @@ Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD
 ### Projects
 
 #### [Digital Swiss Army Knife](https://github.com/robtech21/DigitalSwissArmyKnife)
-A multitool written in Python (unreleased)
+A multitool written in Python (unstable release)
 
 #### [xetch (Actively Contributing)](https://github.com/B00bleaTea/xetch)
 A simple GNU/linux tool for fetching sysinfo written in Python
