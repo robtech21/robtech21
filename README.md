@@ -2,6 +2,8 @@
 
 Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD and motivation that only comes at the least convienent at times. Anyways, I hope you'll enjoy my projects. New versions coming soon.
 
+<p><img src="https://komarev.com/ghpvc/?username=robtech21" alt="robtech21"/></p>
+
 P.S. I'm addicted to [Mindustry](https://github.com/Anuken/Mindustry) please help lol
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robtech21&show_icons=true&theme=onedark)
