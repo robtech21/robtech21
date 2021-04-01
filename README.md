@@ -4,8 +4,6 @@ Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD
 
 <p><img src="https://komarev.com/ghpvc/?username=robtech21" alt="robtech21"/></p>
 
-P.S. I'm addicted to [Mindustry](https://github.com/Anuken/Mindustry) please help lol
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robtech21&show_icons=true&theme=onedark)
 
 
@@ -20,6 +18,8 @@ A simple GNU/linux tool for fetching sysinfo written in Python
 ### Stuff I'm interested in:
 
 [MCPI Revival](https://github.com/MCPI-Revival)
+
+[Mindustry](https://github.com/Anuken/Mindustry)
 
 ### Contacts
 
