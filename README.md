@@ -13,7 +13,7 @@ Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD
 A multitool written in Python (unstable release)
 
 #### [xetch](https://github.com/B00bleaTea/xetch)
-A simple GNU/linux tool for fetching sysinfo written in Python
+A simple GNU/Linux tool for fetching sysinfo written in Python
 
 ### Stuff I'm interested in:
 
