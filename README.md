@@ -33,9 +33,8 @@ A simple GNU/Linux tool for fetching sysinfo written in Python
 #### Email
 Email me [here](mailto:robert@megley.com) (Please include **'priority'** in the subject)
 
-I will be more likely to reply to emails
 #### Discord
-My discord is **Boba#6797** but I've been less active because of schoolwork
+My discord is **Boba#6797**
 <!--
 **robtech21/robtech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
