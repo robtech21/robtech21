@@ -22,7 +22,7 @@ I am a...
 
 ### Projects
 
-No active projects ongoing, maybe more will come soon.
+"Industry Game" - A school competition project with a friend
 
 ### Contacts
 
