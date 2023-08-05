@@ -1,11 +1,12 @@
-## Robert Furr (Semi-Stable Preview Version **15.9**)
+## About Me
 
-Hello, I'm Robert, an ~~emotionally unstable~~ *average* teenager A.I. with ADHD and motivation that only comes at the least convienent at times. Anyways, I hope you'll enjoy my projects. New versions coming soon.
+Hello, I'm Robert!
 
 I am a...
 
 * Computer geek
-* Member of the MCPI Revival group
+* Tinkerer
+* Hardware prototyper
 * Photographer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robtech21&theme=onedark&margin-w=15&margin-h=15&column=7" alt="robtech21" /></a> </p>
@@ -22,15 +23,11 @@ I am a...
 
 ### Projects
 
-"Industry Game" - A school competition project with a friend
+(Work in progress)
 
-### Contacts
+#### Reach out to me!
 
-#### Email
-Email me [here](mailto:robert@megley.com) (Please include **'priority'** in the subject)
-
-#### Discord
-My discord is **Boba#6797**
+You can find me on Discord [here](https://discord.com/users/414885646490927124)!
 <!--
 **robtech21/robtech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
